@@ -1,2 +1,2 @@
 # Machine-Learning
-Supervised ML algorithms
+Implemented Supervised ML algorithms
